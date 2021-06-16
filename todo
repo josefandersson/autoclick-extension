@@ -1,0 +1,2 @@
+- when creating new action, save some settings as defaults
+	- load those defaults when a new createNewAction process is started
